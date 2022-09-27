@@ -1,2 +1,2 @@
 # Greg-2.0
-Made the illustrious Greg into a discord bot.
+Making the illustrious Greg into a discord bot.
